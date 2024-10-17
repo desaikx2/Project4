@@ -1,5 +1,7 @@
 # Project4
 
+Google Colab - https://colab.research.google.com/drive/1CM5BNHpz2squwwxwZB4TesTZNpN14WWq?usp=sharing
+
 
 
 ### Project Proposal: Heart Disease Prediction Model
@@ -12,7 +14,6 @@ Heart disease remains a leading cause of mortality worldwide, underscoring the u
 2. **Feature Engineering**: Identify and engineer relevant features that may contribute to heart disease risk, such as age, gender, cholesterol levels, blood pressure, and lifestyle choices.
 3. **Model Development**: Develop and compare multiple machine learning models (e.g., logistic regression, decision trees, random forests, and neural networks) to determine the most effective approach for prediction.
 4. **Validation and Testing**: Implement rigorous validation techniques, including cross-validation and performance metrics (accuracy, precision, recall, F1-score) to assess the model’s effectiveness.
-5. **Deployment and User Interface**: Create a user-friendly interface that healthcare providers can use to input patient data and receive risk assessments.
 
 #### Methodology
 
